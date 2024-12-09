@@ -2,7 +2,7 @@
 <br><br>
 <img src="./readme/Titles/title2.svg"/>
 
-> An IoT-integrated platform for farmers, flower enthusiasts, and administrators, enabling remote greenhouse management, real-time monitoring, and a seamless flower marketplace experience.
+> An IoT-integrated platform for farmers, flower enthusiasts, and administrators, enabling remote greenhouse management, real-time monitoring, and a seamless flower kmarketplace experience.
 >
 > Pétale aims to empower farmers with advanced tools for managing their crops while offering users a convenient way to explore, identify, and purchase flowers. By combining IoT technology, machine learning, and e-commerce, we strive to bridge the gap between technology and nature.
 
