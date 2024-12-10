@@ -1,0 +1,9 @@
+[submodule "Petale-app"]
+	path = Petale-app
+	url = https://github.com/mayaeyd/Petale-app.git
+[submodule "Petale-server"]
+	path = Petale-server
+	url = https://github.com/mayaeyd/Petale-server.git
+[submodule "Petale-arduino"]
+	path = Petale-arduino
+	url = https://github.com/mayaeyd/Petale-arduino.git
