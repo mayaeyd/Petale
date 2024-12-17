@@ -7,3 +7,6 @@
 [submodule "Petale-arduino"]
 	path = Petale-arduino
 	url = https://github.com/mayaeyd/Petale-arduino.git
+[submodule "Petale-ML"]
+	path = Petale-ML
+	url = https://github.com/mayaeyd/Petale-ML.git
