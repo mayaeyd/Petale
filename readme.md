@@ -6,18 +6,29 @@
 >
 > Pétale aims to empower farmers with advanced tools for managing their crops while offering users a convenient way to explore, identify, and purchase flowers. By combining IoT technology, machine learning, and e-commerce, we strive to bridge the gap between technology and nature.
 
-### User Stories
-- As a farmer, I want to monitor real-time sensor data (e.g., soil moisture, humidity, temperature), so I can manage my greenhouse remotely and efficiently.
+## User Stories
 
-- As a farmer, I want to post my harvested flowers on the marketplace, so I can sell them to users conveniently.
+### Gardener
+- As a gardener, I want to monitor real-time sensor data (e.g., soil moisture, humidity, temperature), so I can manage my greenhouse remotely and efficiently.
 
-- As a farmer, I want to be able to water my crops with a click of a button, so I can be away with a clear mind.
+- As a gardener, I want to post my harvested plants on the marketplace, so I can sell them to users conveniently.
 
-- As a user, I want to upload a picture of a flower, so I can identify it using the app’s machine-learning feature.
+- As a gardener, I want to be able to water my crops with a click of a button or through a schedule, so I can be away with a clear mind.
+
+### User
+- As a user, I want to upload a picture of a flower, so I can identify its name using the app’s machine-learning feature.
 
 - As a user, I want to browse the flower marketplace, so I can explore and purchase flowers from farmers directly.
 
+- As a user, 
+
+### Admin Stories
 - As an admin, I want to manage users and oversee marketplace activity, so I can ensure smooth operations and compliance.
+
+- As an admin, I want to ban users and gardeners 
+
+- As an admin, 
+
 <br><br>
 <img src="./readme/Titles/title3.svg"/>
 <br><br>
