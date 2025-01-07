@@ -20,14 +20,14 @@
 
 - As a user, I want to browse the flower marketplace, so I can explore and purchase flowers from farmers directly.
 
-- As a user, 
+- As a user, I want to filter plants and flowers by name, type, or price, so I can find exactly what I need quickly.
 
 ### Admin Stories
 - As an admin, I want to manage users and oversee marketplace activity, so I can ensure smooth operations and compliance.
 
-- As an admin, I want to ban users and gardeners 
+- As an admin, I want to ban users and gardeners who violate community guidelines, so I can maintain a safe and respectful environment. 
 
-- As an admin, 
+- As an admin, I want to edit or remove inappropriate content, such as offensive comments or images, so I can maintain the platform's quality.
 
 <br><br>
 <img src="./readme/Titles/title3.svg"/>
