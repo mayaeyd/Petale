@@ -33,7 +33,7 @@
 <img src="./readme/Titles/title3.svg"/>
 ### Core Technologies
 
-- [React.js](https://reactjs.org/docs/getting-started.html): Powers the frontend interface, providing a dynamic and responsive user experience.  
+- [React.js](https://react.dev/learn): Powers the frontend interface, providing a dynamic and responsive user experience.  
 - [Node.js with Express](https://expressjs.com/): Handles server-side operations and REST API endpoints.  
 - [MongoDB](https://www.mongodb.com/docs/): Primary database for storing application data and user information.  
 - [Socket.IO](https://socket.io/docs/): Enables real-time communication between the web application and IoT devices.  
@@ -59,7 +59,7 @@
 #### Sensors
 
 - [DHT11](https://learn.adafruit.com/dht): Measures temperature and humidity.  
-- [Soil Moisture Sensor](https://components101.com/sensors/soil-moisture-sensor): Monitors plant hydration levels.  
+- [Soil Moisture Sensor](https://projecthub.arduino.cc/Aswinth/soil-moisture-sensor-with-arduino-91c818): Monitors plant hydration levels.  
 - [Arduino IDE](https://www.arduino.cc/en/software): Development environment for hardware programming.  
 
 ### Development Tools
