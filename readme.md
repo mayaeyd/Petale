@@ -22,7 +22,7 @@
 
 - As a user, I want to filter plants and flowers by name, type, or price, so I can find exactly what I need quickly.
 
-### Admin Stories
+### Admin
 - As an admin, I want to manage users and oversee marketplace activity, so I can ensure smooth operations and compliance.
 
 - As an admin, I want to ban users and gardeners who violate community guidelines, so I can maintain a safe and respectful environment. 
@@ -77,6 +77,7 @@
 <br><br>
 <img src="./readme/Titles/title4.svg"/>
 
+[Figma](https://www.figma.com/design/ilLm7kQiZ1PIAdFdLGMCpb/Final-Project-Design?node-id=0-1&t=lJnTlvopzHzmWgw3-1)
 | Login           | Signup          | Dashboard       | Profile         | Flower Recogition|
 |------------------|-----------------|-----------------|-----------------|-----------------|
 | **Login**       | **Signup**      | **Dashboard**   | **Profile**     | **Settings**    |
