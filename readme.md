@@ -77,7 +77,7 @@
 <br><br>
 <img src="./readme/Titles/title4.svg"/>
 
-| Login           | Signup          | Dashboard       | Profile         | Settings        |
+| Login           | Signup          | Dashboard       | Profile         | Flower Recogition|
 |------------------|-----------------|-----------------|-----------------|-----------------|
 | **Login**       | **Signup**      | **Dashboard**   | **Profile**     | **Settings**    |
 | ![Login Page](#)| ![Signup](#)    | ![Dashboard](#) | ![Profile](#)   | ![Settings](#)  |
