@@ -76,6 +76,12 @@
   
 <br><br>
 <img src="./readme/Titles/title4.svg"/>
+
+| Login           | Signup          | Dashboard       | Profile         | Settings        |
+|------------------|-----------------|-----------------|-----------------|-----------------|
+| **Login**       | **Signup**      | **Dashboard**   | **Profile**     | **Settings**    |
+| ![Login Page](#)| ![Signup](#)    | ![Dashboard](#) | ![Profile](#)   | ![Settings](#)  |
+
 <br><br>
 <img src="./readme/Titles/title5.svg"/>
 <br><br>
