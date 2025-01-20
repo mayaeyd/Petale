@@ -93,7 +93,13 @@
 
 ### Architecting Data Excellence: Innovative Database Design Strategies:
 
-<img src="./readme/code.png" />
+<table>
+  <tr>
+    <td valign="top"><img src="./readme/code.png" width="300"/></td>
+    <td valign="top"><img src="./readme/code2.png" width="300"/></td>
+    <td valign="top"><img src="./readme/code3.png" width="300"/></td>
+  </tr>
+</table>
 
 <br><br>
 <img src="./readme/Titles/title6.svg"/>
