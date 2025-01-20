@@ -32,9 +32,9 @@
   <br><br>
 <img src="./readme/Titles/title11.svg">
 
-| **Water Pump Live Demonstration**          |
-| ------------------------------------------ |
-| ![Live Demo](./readme/assets/LiveDemo.gif) |
+#### Water Pump Live Demonstration
+
+<img src="./readme/assets/LiveDemo.gif" alt="Live Demo" style="display: block; margin: 0 auto;">
 
 ---
 
