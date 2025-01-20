@@ -107,6 +107,10 @@
 | ----------------------------------------- | ----------------------------------------- |
 | ![Checkout](./readme/assets/Checkout.jpg) | ![Orders](./readme/assets/UserOrders.jpg) |
 
+| **Flower Recognition**                                      |
+| ----------------------------------------------------------- |
+| ![Flower Recognition](./readme/assets/FlowerRecogntion.gif) |
+
 ---
 
 ### Gardener Screens
