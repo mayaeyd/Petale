@@ -147,3 +147,46 @@
 
 <br><br>
 <img src="./readme/Titles/title10.svg"/>
+
+This is an example of how to list things you need to use the software and how to install them.
+
+#### Frontend
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/mayaeyd/Petale-app.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+
+#### Backend
+
+1. Get a free API Key at [ImageKit](https://imagekit.io/)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/mayaeyd/Petale-server.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Copy `.env.example` to `.env`
+5. Update the values in `.env` with your own credentials
+
+#### Machine Learning
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/mayaeyd/Petale-ML.git
+   ```
+2. Navigate to `flower_project`
+   ```sh
+   cd flower_project
+   ```
+3. Run the server
+   ```sh
+   python manage.py runserver
+   ```
+
