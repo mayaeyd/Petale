@@ -29,6 +29,15 @@
 
 - As an admin, I want to edit or remove inappropriate content, such as offensive comments or images, so I can maintain the platform's quality.
 
+  <br><br>
+<img src="./readme/Titles/title11.svg">
+
+| **Water Pump Live Demonstration**          |
+| ------------------------------------------ |
+| ![Live Demo](./readme/assets/LiveDemo.gif) |
+
+---
+
 <br><br>
 <img src="./readme/Titles/title3.svg"/>
 
