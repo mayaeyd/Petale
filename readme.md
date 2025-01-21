@@ -32,11 +32,9 @@
   <br><br>
 <img src="./readme/Titles/title11.svg">
 
-#### Water Pump Live Demonstration
-
-<img src="./readme/assets/LiveDemo.gif" alt="Live Demo" style="display: block; margin: 0 auto;">
-
----
+| **Water Pump Live Demonstration** |
+|-----------------------------------|
+| ![Demo](./readme/assets/LiveDemo.gif") |
 
 <br><br>
 <img src="./readme/Titles/title3.svg"/>
@@ -145,6 +143,8 @@
 | **Growing Plant (unharvested)**                            | **Post Plant Form (harvested)**                 |
 | ---------------------------------------------------------- | ----------------------------------------------- |
 | ![Growing Plant](./readme/assets/GardenerGrowingPlant.gif) | ![Post Form](./readme/assets/PostPlantForm.jpg) |
+
+---
 
 ### Admin Screens
 
