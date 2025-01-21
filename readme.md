@@ -66,7 +66,7 @@
 - [C++](https://en.cppreference.com/w/): Programs the microcontroller and handles sensor logic.
 - [ESP8266](https://www.espressif.com/en/products/socs/esp8266): WiFi-enabled microcontroller for IoT functionality.
 
-#### Sensors
+### Sensors
 
 - [DHT11](https://learn.adafruit.com/dht): Measures temperature and humidity.
 - [Soil Moisture Sensor](https://projecthub.arduino.cc/Aswinth/soil-moisture-sensor-with-arduino-91c818): Monitors plant hydration levels.
