@@ -34,7 +34,7 @@
 
 | **Water Pump Live Demonstration** |
 |-----------------------------------|
-| ![Demo](./readme/assets/LiveDemo.gif") |
+| ![Demo](./readme/assets/LiveDemo.gif) |
 
 <br><br>
 <img src="./readme/Titles/title3.svg"/>
