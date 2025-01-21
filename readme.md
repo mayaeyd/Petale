@@ -164,6 +164,18 @@
 | ------------------------------------------------------- | -------------------------------------------------------- |
 | ![Plant Details](./readme/assets/AdminPlantDetails.png) | ![Growing Plants](./readme/assets/AdminGrowingPlant.gif) |
 
+<img src="./readme/Titles/title8.svg"/>
+
+### Unleashing the Potential with AWS Integration:
+
+| Login API                                 | Register API                                 |
+| ----------------------------------------- | -------------------------------------------- |
+| <img src="./readme/assets/LoginAPI.jpg"/> | <img src="./readme/assets/RegisterAPI.jpg"/> |
+
+| Get Plants API                                | Create Order API                                |
+| --------------------------------------------- | ----------------------------------------------- |
+| <img src="./readme/assets/GetPlantsAPI.jpg"/> | <img src="./readme/assets/CreateOrderAPI.jpg"/> |
+
 <br><br>
 <img src="./readme/Titles/title10.svg"/>
 
