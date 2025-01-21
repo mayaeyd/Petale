@@ -164,9 +164,14 @@
 | ------------------------------------------------------- | -------------------------------------------------------- |
 | ![Plant Details](./readme/assets/AdminPlantDetails.png) | ![Growing Plants](./readme/assets/AdminGrowingPlant.gif) |
 
+<br><br>
 <img src="./readme/Titles/title8.svg"/>
 
 ### Unleashing the Potential with AWS Integration:
+
+Our backend is up and running on AWS EC2, delivering reliable and scalable server performance. Here are some examples of API responses from our live server, showing how everything works seamlessly in a production environment. These screenshots highlight real-time API responses, proving that our backend is successfully deployed and functioning as expected.
+
+**Backend URL**: [13.38.244.245:8000](http://13.38.244.245:8000)
 
 | Login API                                 | Register API                                 |
 | ----------------------------------------- | -------------------------------------------- |
