@@ -169,7 +169,7 @@
 <br><br>
 <img src="./readme/Titles/title8.svg"/>
 
-### Unleashing the Potential with AWS Integration:
+### Setting up the server on AWS:
 
 Our backend is up and running on AWS EC2, delivering reliable and scalable server performance. Here are some examples of API responses from our live server, showing how everything works seamlessly in a production environment. These screenshots highlight real-time API responses, proving that our backend is successfully deployed and functioning as expected.
 
